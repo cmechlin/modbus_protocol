@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ModbusTCP
+namespace Modbus
 {
-    public class ModbusTCP
+    public class Modbus
     {
     }
 }

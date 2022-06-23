@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ModbusTCP")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Modbus")]
+[assembly: AssemblyDescription("Modbus Protocol Library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ModbusTCP")]
-[assembly: AssemblyCopyright("Copyright ©  2022")]
+[assembly: AssemblyCompany("Alstom")]
+[assembly: AssemblyProduct("Modbus")]
+[assembly: AssemblyCopyright("Copyright © Alstom 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
